@@ -9,10 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@ai-sdk/anthropic": "^2.0.81",
-    "@ai-sdk/google": "^2.0.74",
-    "@ai-sdk/react": "^2.0.200",
-    "ai": "^5.0.198",
+    "@ai-sdk/anthropic": "^2.0.101",
+    "@ai-sdk/google": "^2.0.96",
+    "@ai-sdk/react": "^2.0.256",
+    "ai": "^5.0.253",
     "maplibre-gl": "^5.24.0",
     "next": "16.2.9",
     "react": "19.2.4",
